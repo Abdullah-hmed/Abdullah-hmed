@@ -1,6 +1,6 @@
 # 💫 About Me:
-### Hello There! 
-A passionate developer with a keen interest in creating innovative and efficient solutions through code. Currently, I am dedicating my time to learning web development, and aiming to deepen my knowledge and enhance my skills in this field.
+Hello, I'm Abdullah and I like to code. Currently dedicating my time to getting better at web development.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-ahmed-se/) 
