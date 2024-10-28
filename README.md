@@ -19,6 +19,6 @@ Hello, I'm Abdullah and I like to code. Currently dedicating my time to getting 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-hmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://komarev.com/ghpvc/?username=Abdullah-hmed&style=pixel)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
