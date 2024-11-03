@@ -1,8 +1,5 @@
 # Hello, I'm Abdullah 👋
 
-### A passionate Web Developer on a journey of continuous learning
-
----
 
 ## 🚀 About Me
 
