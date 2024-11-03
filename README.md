@@ -23,3 +23,5 @@ Hello, I'm Abdullah and I like to code. Currently dedicating my time to getting 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-hmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
