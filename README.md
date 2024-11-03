@@ -24,4 +24,4 @@ Hello, I'm Abdullah and I like to code. Currently dedicating my time to getting 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](/#)
