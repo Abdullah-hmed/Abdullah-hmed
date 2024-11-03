@@ -71,15 +71,6 @@ const abdullah = {
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-hmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-hmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-hmed&theme=radical&hide_border=true)
-
-<br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdullah-hmed&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 <br>
 
 ### ✍️ Random Dev Quote
@@ -94,11 +85,5 @@ const abdullah = {
 </div>
 
 <br>
-
-<div align="center">
-  <i>🚀 If you can dream it, you can code it! 💫</i>
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
