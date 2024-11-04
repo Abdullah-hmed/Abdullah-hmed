@@ -1,9 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Abdullah%20Ahmed&fontSize=70&animation=fadeIn&fontColor=58A6FF)
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=%E2%9C%A6+Web+Developer;%E2%9F%A1+Building+digital+experiences;%E2%A6%BF+Always+learning+new+things;%E2%9D%AF+Turning+ideas+into+code" /></div>
 
 
 </div>
