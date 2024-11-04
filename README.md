@@ -15,7 +15,7 @@ const abdullah = {
     technologies: {
         frontEnd: {
             js: ["Vanilla JS"],
-            css: ["CSS3", "Bootstrap"]
+            css: ["CSS3", "TailwindCSS", "Bootstrap"]
         },
         backEnd: {
             python: ["Flask"],
