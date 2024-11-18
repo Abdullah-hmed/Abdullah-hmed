@@ -77,10 +77,6 @@ const abdullah = {
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Abdullah-hmed&&style=flat-square" align="center" />
-</div>
-
 <br>
 
 </div>
