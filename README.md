@@ -62,18 +62,6 @@ const abdullah = {
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
-
-## 📊 GitHub Stats
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-hmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br>
 
 ---
 
