@@ -1,7 +1,8 @@
 <div align="center">
 
+## 🌟 About Me
 
-
+Hi, I'm Abdullah and I like to code! I am a Web Developer and dabble in Machine Learning, specifically Computer Vision.
 
 </div>
 
