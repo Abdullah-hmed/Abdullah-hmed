@@ -5,29 +5,6 @@
 
 </div>
 
-## 🌟 About Me
-```javascript
-const abdullah = {
-    pronouns: "he/him",
-    code: ["JavaScript", "Python", "Java", "C++", "PHP"],
-    currentFocus: "Web Development",
-    askMeAbout: ["web dev", "tech", "coding"],
-    technologies: {
-        frontEnd: {
-            js: ["Vanilla JS"],
-            css: ["CSS3", "TailwindCSS", "Bootstrap"]
-        },
-        backEnd: {
-            python: ["Flask"],
-            php: ["Pure PHP"]
-        },
-        databases: ["MySQL", "MS SQL Server"],
-        tools: ["Docker", "Git"]
-    },
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
 <div align="center">
 
 ## 🌐 Let's Connect!
