@@ -13,8 +13,6 @@ Hi, I'm Abdullah and I like to code. I dabble in Machine Learning, specifically 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-hmed)
 <!-- Add your other social links here -->
 
-<br>
-
 ## 💻 Tech Stack
 
 ### 📱 Programming Languages
